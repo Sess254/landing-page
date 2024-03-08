@@ -1,0 +1,87 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-container {
+  display: flex;
+  background-color: #1f2937;
+  height: 50px;
+  justify-content: center;
+  
+}
+
+.header-items,
+.website-items {
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+}
+
+.links  {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.shop,
+.login{
+  margin-left: 40px;
+}
+
+.shop,
+.login,
+.home {
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+.website-conatiner {
+  display: flex;
+  background-color: #1f2937;
+  height: 350px;
+  justify-content: center;
+  
+}
+
+.website-info{
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.picture-one {
+  margin-top: 30px;
+}
+.btn {
+  margin-top: 10px;
+}
+
+.btn-style {
+  color: wheat;
+  font-weight: bold;
+  font-size: 18px;
+  height: 50px;
+  width: 150px;
+  border-radius: 8px;
+  background-color: #3882F6;
+  border-style: hidden;
+}
+
+.website-first {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+
+}
+
+.website-second {
+  font-size: 18px;
+  color: #E5E7EB;
+}

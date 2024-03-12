@@ -109,3 +109,11 @@
 .fourth-pic {
   margin-left: 10px;
 }
+
+.quote-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-color: #E5E7EB;
+}

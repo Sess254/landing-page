@@ -142,4 +142,18 @@ p {
   width: 1000px;
   background-color: #3882F6;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.order {
+  color: #F9FAF8;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.order-detail {
+  color: #F9FAF8;
+  font-size: 14px;
 }

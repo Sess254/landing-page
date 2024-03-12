@@ -90,7 +90,22 @@
   display: flex;
   justify-content: center;
   margin-top: 50px;
+  margin-bottom: 30px;
   font-size: 36px;
   font-weight: bold;
   color: #1F2937;
+}
+
+.sub-section {
+  display: flex;
+  flex-direction: row;
+  height: 350px;
+  justify-content: center;
+}
+
+.first-pic,
+.second-pic,
+.third-pic,
+.fourth-pic {
+  margin-left: 10px;
 }

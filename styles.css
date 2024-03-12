@@ -99,7 +99,7 @@
 .sub-section {
   display: flex;
   flex-direction: row;
-  height: 350px;
+  height: 300px;
   justify-content: center;
 }
 
@@ -116,4 +116,16 @@
   align-items: center;
   height: 300px;
   background-color: #E5E7EB;
+  height: 350px;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+}
+
+p {
+  font-style: italic;
+  color: #1F2937;
 }

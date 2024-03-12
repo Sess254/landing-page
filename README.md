@@ -1,1 +1,0 @@
-For this Project, I'll be creating an entire webpage from scratch from a designprovided by The Odin Project.I'm really enjoying the learning process so far.
